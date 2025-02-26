@@ -1,29 +1,41 @@
-As someone with ADHD, focus has (understandably) never been my strong suit. My brain seems to turn itself off in the classroom completely, like it refuses to retain any of the information no matter how much I internally yell at it. This makes learning new content VERY DIFFICULT for me. Especially taking notes. 
+# 🌟 Study-Voice - Your Smart Pal 🚀  
 
-Almost every teacher expects students to take notes in their class, which is fine if you're capable of doing it. I'm not. And I realize that it's not just me facing this problem. From neurological to physical, there are so many different conditions that can affect a student's learning-- things like lack of focus, poor hearing, motor function issues can make it almost impossible to take notes. No student should have to struggle this much in their learning journey.
+### **Struggling to take notes in class? Let the voice study for you!**  
 
-# Solution: Apollo!!
-Apollo is a flask app that allows users to turn live teacher lectures into notes with the click of a button. Users will be able to run the program while the teacher is talking, and it will automatically convert everything into virtual notes that can be used for studying and review. Can't focus? Physically struggle to write (or type)? Can't hear the teacher well? Let Apollo handle it for you.
+📚 **Study-Voice** is an intelligent **Flask app** that converts **live teacher lectures** into organized, readable notes—**automatically!**  
+No more stress about **zoning out**, **missing key points**, or **struggling to write/type fast enough**. Study-Voice has your back! 🎧💡  
 
-## Features
-- Working sign up/login system to save all notes
-- Live audio to readable notes (updates dynamically-- see it as it happens!)
-- Options to edit notes/delete unnecessary ones
+---
 
-## Tech Stack
-Frontend:
-- HTML5
-- CSS3
-- Plain JS
+## ✨ **Why Apollo?**  
+💭 **ADHD, hearing difficulties, motor function issues?** Traditional note-taking isn't accessible for everyone. **Study-Voice makes learning easier.**  
+🎙️ **Live audio transcription** - Converts spoken lectures into text notes in real-time.  
+💾 **Saves all your notes** - Never lose another important lesson!  
+📝 **Editable Notes** - Remove unnecessary parts, refine key details.  
 
-Backend:
-- Flask
-    - Sqlite3
-    - SpeechRecognition
-    - GeminiAPI
+🚀 **Just press a button, and let Study-Voice create your study notes for you!**  
 
-## What's next?
-Here's a list of some features I would love to implement in the future:
-- Better customization: Potential color modes (light/dark? colorschemes?)
-- Organization: Drag to change position of notes, group notes together based on subject
-- Practice: Practice feature similar to Gimkit/Blooket
+---
+
+## 🛠 **Features**  
+✅ **📂 Secure Sign-up/Login System** - Save & access your notes anytime  
+✅ **🎙️ Real-time Transcription** - See notes appear as your teacher speaks!  
+✅ **✏️ Full Editing Control** - Edit or delete unnecessary notes  
+✅ **📜 Clean, Simple Interface** - Built for effortless studying  
+
+---
+
+## 💻 **Tech Stack**  
+
+### **Frontend:**  
+- 🌐 **HTML5**  
+- 🎨 **CSS3**  
+- ⚡ **Plain JavaScript**  
+
+### **Backend:**  
+- 🐍 **Flask**  
+- 🗄️ **SQLite3**  
+- 🗣️ **SpeechRecognition**  
+- 🤖 **GeminiAPI**  
+
+---
